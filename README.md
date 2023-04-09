@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojshav&label=Profile%20views&color=0e75b6&style=flat" alt="ojshav" /> </p>
 
-- 🌱 I’m currently learning **Python and machine learning**
+- 🌱 I’m currently learning **Python ,Web Devlopment and machine learning**
 
 - 📫 How to reach me **ojshavsaxenaa@gmail.com**
 
-- 🏆 I am new to **Open Source**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
