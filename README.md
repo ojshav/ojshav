@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ojshav Saxena</h1>
 <h3 align="center">Aspiring AI & ML enthusiast with a passion for data-driven innovation from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning Flutter, Dart
+- 🌱 Looking to work with people having interest in AI/ML and Data science
 
 - 📫 How to reach me **ojshavsaxenaa@gmail.com**
 
