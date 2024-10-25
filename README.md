@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ojshav Saxena</h1>
 <h3 align="center">Aspiring AI & ML enthusiast with a passion for data-driven innovation from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 Looking to work with people having interest in AI/ML and Data science
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE1eml2NWxicG9wb3FyYmozZXE1cTV3NTVtanNtbjFuMzAwbXU0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
+- 🎓 B.Tech in AI & ML from Madhav Institute of Technology and Science, Gwalior (CGPA: 8.24/10.0)
 
-- 📫 How to reach me **ojshavsaxenaa@gmail.com**
+- 🌐 Web Development Intern | Linnaeus University, Sweden (Remote): Enhanced site performance by 20%, developed responsive UI/UX, and optimized code for efficiency.
+
+- 🔬 AI Researcher | Biomedical Imaging (Liver Tumor Segmentation): Achieved Dice Coefficient of 97.63% and Mean IoU of 98.06% on test data for 3D CT liver tumor segmentation.
+
+📊 Project Highlights:
+
+- House Price Prediction in Mumbai: Built an ML web app with Multiple Linear, Lasso, and Ridge Regression, achieving 90% accuracy.
+- DeepLabV3+ Liver Tumor Segmentation: Developed PyTorch models, reaching IoU of 0.93 and pixel accuracy of 0.934.
+  
+🌱 Learning Interests: GenAI, LLMs, MLOps, NLP
+
+📫 Connect with me: ojshavsaxenaa@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
