@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ojshav Saxena</h1>
 <h3 align="center">Aspiring AI & ML enthusiast with a passion for data-driven innovation from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE1eml2NWxicG9wb3FyYmozZXE1cTV3NTVtanNtbjFuMzAwbXU0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
-- 🎓 B.Tech in AI & ML from Madhav Institute of Technology and Science, Gwalior (CGPA: 8.24/10.0)
+- 🎓 B.Tech in AI & ML from Madhav Institute of Technology and Science, Gwalior 
 
 - 🌐 Web Development Intern | Linnaeus University, Sweden (Remote): Enhanced site performance by 20%, developed responsive UI/UX, and optimized code for efficiency.
 
