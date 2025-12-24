@@ -1,20 +1,103 @@
-<h1 align="center">Hi 👋, I'm Ojshav Saxena</h1>
-<h3 align="center">Aspiring AI & ML enthusiast with a passion for data-driven innovation from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE1eml2NWxicG9wb3FyYmozZXE1cTV3NTVtanNtbjFuMzAwbXU0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
-- 🎓 B.Tech in AI & ML from Madhav Institute of Technology and Science, Gwalior 
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Ojshav%20Saxena&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=gradient" />
+</div>
 
-- 🌐 Web Development Intern | Linnaeus University, Sweden (Remote): Enhanced site performance by 20%, developed responsive UI/UX, and optimized code for efficiency.
+<h2 align="center">Hey 👋 What’s up?</h2>
 
-- 🔬 AI Researcher | Biomedical Imaging (Liver Tumor Segmentation): Achieved Dice Coefficient of 97.63% and Mean IoU of 98.06% on test data for 3D CT liver tumor segmentation.
 
-📊 Project Highlights:
+<p align="center">
+Software Engineer • Backend • AI • Full-Stack <br/>
+I build scalable systems, production AI, and performance-first software.
+</p>
 
-- House Price Prediction in Mumbai: Built an ML web app with Multiple Linear, Lasso, and Ridge Regression, achieving 90% accuracy.
-- DeepLabV3+ Liver Tumor Segmentation: Developed PyTorch models, reaching IoU of 0.93 and pixel accuracy of 0.934.
-  
-🌱 Learning Interests: GenAI, LLMs, MLOps, NLP
+---
 
-📫 Connect with me: ojshavsaxenaa@gmail.com
+## 🧠 How I Think as an Engineer
+
+- Design systems **before** writing code  
+- Optimize for **latency, reliability, and scale**
+- Prefer **boring, predictable architectures** that survive production
+- Treat **AI as software**, not demos
+- Own features **end-to-end**: backend, infra, performance
+
+---
+
+## 🛠️ Tech I Actively Use
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" />
+</div>
+
+---
+
+## ⚙️ What I Build
+
+### Backend Systems
+- High-performance **REST APIs** (200+ endpoints in production)
+- **Microservices** with clean boundaries
+- Redis-backed caching for **sub-100ms latency**
+- Auth systems: **JWT, OAuth**
+- Async workflows & background jobs
+
+### Cloud & Infrastructure
+- AWS deployments (**EC2, S3, Redis**)
+- Reverse proxies (**Nginx / Apache**)
+- CI/CD pipelines & zero-downtime deployments
+- Systems handling **100k+ assets**
+- Production debugging & scaling
+
+### AI / GenAI
+- **RAG pipelines** using LangChain & Vector DBs
+- LLM-powered chatbots for real users
+- Semantic search over unstructured data
+- AI microservices integrated into products
+- Prompt + retrieval tuning for accuracy
+
+---
+
+## 🏆 Engineering Impact
+
+- 🚀 Shipped **300+ production APIs**
+- ⚡ Achieved **sub-100ms latency** on critical flows
+- 🤖 Built **production RAG systems**
+- 📉 Reduced support workload by **60%** using AI
+- 📈 Improved recommendation accuracy by **78%**
+- 🧱 Owned systems from idea → production → scaling
+
+---
+
+## 📊 GitHub Activity
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojshav&show_icons=true&locale=en&layout=compact" alt="ojshav" /></p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +106,12 @@
 <a href="https://www.leetcode.com/https://leetcode.com/ojshav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ojshav/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojshav&show_icons=true&locale=en&layout=compact" alt="ojshav" /></p>
+<img src="https://raw.githubusercontent.com/ojshav/ojshav/output/snake.svg" alt="Snake animation" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojshav&show_icons=true&locale=en" alt="ojshav" /></p>
+---
+
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient" />
+</div>
